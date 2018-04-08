@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8d2423-be38-40d6-97d0-8e1f76321e92" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_11/section_11_3/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_11/section_11_3/date_ranges_example.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_11/section_11_3/frequencies_and_date_offset_example.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_11/section_11_4/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_11/section_11_7/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_11/section_11_7/moving_window_functions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/stock_px.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/array_manipulation_example.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_1_basic.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_2_array_creation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_3_basic_operations.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_4_print_arrays.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_5_indexing_slicing_iterating.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_6_shape_manipulation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_7_copy_and_views.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_8_broadcasting.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_9_indexing.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/string_operations_example.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/linear_algebra/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/game_of_life.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,8 +30,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter_10/groupby_mechanics.py" />
-        <option value="$PROJECT_DIR$/chapter_10/section_10_1/grouping_by_index_levels.py" />
         <option value="$PROJECT_DIR$/chapter_10/section_10_1/groupby_mechanics.py" />
         <option value="$PROJECT_DIR$/data/tips.csv" />
         <option value="$PROJECT_DIR$/chapter_10/section_10_2/column_wise_and_multiple_function_application.py" />
@@ -101,12 +79,14 @@
         <option value="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_5_indexing_slicing_iterating.py" />
         <option value="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_8_broadcasting.py" />
         <option value="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_9_indexing.py" />
+        <option value="$PROJECT_DIR$/numpy_tutorial/game_of_life.py" />
+        <option value="$PROJECT_DIR$/linear_algebra/chapter2.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="-7" />
+    <option name="width" value="972" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -125,6 +105,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,8 +129,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example8">
+  <component name="RunManager" selected="Python.game_of_life">
     <configuration name="database" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,24 +175,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonForDataAnalysis" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ipc/database.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="dataframe_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonForDataAnalysis" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/dataframe_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,6 +216,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="game_of_life" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_tutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonForDataAnalysis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_tutorial/game_of_life.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="reindex_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,19 +254,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.dataframe_example" />
-      <item index="1" class="java.lang.String" itemvalue="Python.reindex_example" />
-      <item index="2" class="java.lang.String" itemvalue="Python.database" />
-      <item index="3" class="java.lang.String" itemvalue="Python.example7" />
-      <item index="4" class="java.lang.String" itemvalue="Python.example8" />
+      <item index="0" class="java.lang.String" itemvalue="Python.reindex_example" />
+      <item index="1" class="java.lang.String" itemvalue="Python.database" />
+      <item index="2" class="java.lang.String" itemvalue="Python.example7" />
+      <item index="3" class="java.lang.String" itemvalue="Python.example8" />
+      <item index="4" class="java.lang.String" itemvalue="Python.game_of_life" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.example8" />
-        <item index="1" class="java.lang.String" itemvalue="Python.example7" />
-        <item index="2" class="java.lang.String" itemvalue="Python.database" />
-        <item index="3" class="java.lang.String" itemvalue="Python.reindex_example" />
-        <item index="4" class="java.lang.String" itemvalue="Python.dataframe_example" />
+        <item index="0" class="java.lang.String" itemvalue="Python.game_of_life" />
+        <item index="1" class="java.lang.String" itemvalue="Python.example8" />
+        <item index="2" class="java.lang.String" itemvalue="Python.example7" />
+        <item index="3" class="java.lang.String" itemvalue="Python.database" />
+        <item index="4" class="java.lang.String" itemvalue="Python.reindex_example" />
       </list>
     </recent_temporary>
   </component>
@@ -307,14 +287,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="972" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25785124" sideWeight="0.15195072" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45824176" sideWeight="0.8480493" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33468285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13296704" sideWeight="0.8480493" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22527473" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -338,8 +318,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_10/section_10_1/grouping_with_functions.py" />
-    <entry file="file://$PROJECT_DIR$/chapter_10/section_10_1/grouping_by_index_levels.py" />
     <entry file="file://$PROJECT_DIR$/chapter_9/section_9_1/figures_and_subplots.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -478,7 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -486,7 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
           <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -502,15 +477,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy_tutorial/game_of_life.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_9_indexing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="222">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linear_algebra/chapter2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
