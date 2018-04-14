@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8d2423-be38-40d6-97d0-8e1f76321e92" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/linear_algebra/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_tutorial/game_of_life.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/sql/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/sql/mysql_connection.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/chapter_11/section_11_2/time_series_basics.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_2/time_series_basics.py" />
+      <change beforePath="$PROJECT_DIR$/chapter_11/section_11_3/date_ranges_example.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_3/date_ranges_example.py" />
+      <change beforePath="$PROJECT_DIR$/chapter_11/section_11_3/frequencies_and_date_offset_example.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_3/frequencies_and_date_offset_example.py" />
+      <change beforePath="$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py" />
+      <change beforePath="$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +19,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="shift_data_example.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="period_arithmetic.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,20 +52,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stamp</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter_10/section_10_1/groupby_mechanics.py" />
         <option value="$PROJECT_DIR$/data/tips.csv" />
         <option value="$PROJECT_DIR$/chapter_10/section_10_2/column_wise_and_multiple_function_application.py" />
         <option value="$PROJECT_DIR$/chapter_10/section_10_3/general_split-apply-combine.py" />
         <option value="$PROJECT_DIR$/chapter_10/section_10_3/random_sampling.py" />
         <option value="$PROJECT_DIR$/chapter_10/section_10_3/group_weighted_average_and_correlation.py" />
         <option value="$PROJECT_DIR$/chapter_11/section_11_1/datetime_type_and_tools.py" />
-        <option value="$PROJECT_DIR$/chapter_11/section_11_2/time_series_basics.py" />
         <option value="$PROJECT_DIR$/chapter_5/section_5_2/arithmetic_and_data_alignment_example.py" />
         <option value="$PROJECT_DIR$/chapter_8/section_8_2/database_style_dataframe_joins.py" />
         <option value="$PROJECT_DIR$/chapter_10/section_10_1/grouping_with_functions.py" />
@@ -67,11 +98,7 @@
         <option value="$PROJECT_DIR$/numpy_tutorial/example2.py" />
         <option value="$PROJECT_DIR$/numpy_tutorial/example3.py" />
         <option value="$PROJECT_DIR$/numpy_tutorial/__init__.py" />
-        <option value="$PROJECT_DIR$/chapter_11/section_11_3/date_ranges_example.py" />
-        <option value="$PROJECT_DIR$/chapter_11/section_11_3/frequencies_and_date_offset_example.py" />
         <option value="$PROJECT_DIR$/chapter_11/section_11_3/shift_date_example.py" />
-        <option value="$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py" />
-        <option value="$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py" />
         <option value="$PROJECT_DIR$/chapter_11/section_11_7/stock_px.csv" />
         <option value="$PROJECT_DIR$/chapter_11/section_11_7/moving_window_functions.py" />
         <option value="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_3_print_arrays.py" />
@@ -81,13 +108,20 @@
         <option value="$PROJECT_DIR$/numpy_tutorial/quick_tutorial/section_9_indexing.py" />
         <option value="$PROJECT_DIR$/numpy_tutorial/game_of_life.py" />
         <option value="$PROJECT_DIR$/linear_algebra/chapter2.md" />
+        <option value="$PROJECT_DIR$/sql/mysql_connection.py" />
+        <option value="$PROJECT_DIR$/chapter_11/section_11_2/time_series_basics.py" />
+        <option value="$PROJECT_DIR$/chapter_11/section_11_3/date_ranges_example.py" />
+        <option value="$PROJECT_DIR$/chapter_11/section_11_3/frequencies_and_date_offset_example.py" />
+        <option value="$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py" />
+        <option value="$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="972" />
-    <option name="height" value="1047" />
+    <option name="x" value="972" />
+    <option name="y" value="64" />
+    <option name="width" value="913" />
+    <option name="height" value="956" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -105,8 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,18 +149,42 @@
             <path>
               <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="numpy_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="numpy_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="quick_tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_11" type="462c0819:PsiDirectoryNode" />
+              <item name="section_11_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_11" type="462c0819:PsiDirectoryNode" />
+              <item name="section_11_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_11" type="462c0819:PsiDirectoryNode" />
+              <item name="section_11_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="plot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,18 +343,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="972" height="1047" extended-state="0" />
+    <frame x="972" y="64" width="913" height="956" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4079254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25785124" sideWeight="0.15195072" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13296704" sideWeight="0.8480493" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22527473" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22710623" sideWeight="0.8480493" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -318,13 +375,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_9/section_9_1/figures_and_subplots.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_6.py" />
     <entry file="file://$PROJECT_DIR$/test/statistic.py" />
     <entry file="file://E:/applications/python35/Lib/site-packages/IPython/core/interactiveshell.py" />
@@ -361,45 +411,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_11/section_11_3/frequencies_and_date_offset_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_11/section_11_3/date_ranges_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_11/section_11_1/datetime_type_and_tools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_11/section_11_2/time_series_basics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -484,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -492,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -501,9 +514,60 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="144">
             <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/mysql_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_11/section_11_2/time_series_basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_11/section_11_3/date_ranges_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_11/section_11_3/frequencies_and_date_offset_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
