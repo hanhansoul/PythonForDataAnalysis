@@ -88,7 +88,8 @@ def plot_histograms(ax, prng, nb_samples=10000):
 
 
 def plot_figure(style_label=""):
-    """Setup and plot the demonstration figure with a given style.
+    """
+    Setup and plot the demonstration figure with a given style.
     """
     # Use a dedicated RandomState instance to draw the same "random" values
     # across the different figures.
@@ -131,5 +132,6 @@ if __name__ == "__main__":
     for style_label in style_list:
         with plt.style.context(style_label):
             fig = plot_figure(style_label=style_label)
+            break
 
     plt.show()

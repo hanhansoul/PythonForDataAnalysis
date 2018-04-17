@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 np.random.seed(19680801)
 
 mu, sigma = 100, 15
-x = mu + sigma * np.random.randn(100)
+x = mu + sigma * np.random.randn(1000)
 n, bins, patches = plt.hist(x, 50, normed=1, facecolor='g', alpha=0.75)
 
 plt.xlabel('Smarts')

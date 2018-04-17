@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8d2423-be38-40d6-97d0-8e1f76321e92" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/sql/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sql/mysql_connection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_11/section_11_6/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_12/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_12/section_12_1/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_12/section_12_1/categorical_method.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_12/section_12_1/categorical_type.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_12/section_12_1/computation_with_categoricals.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_14/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_14/section_14_1/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_14/section_14_1/example_1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/bitly_usagov.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/chapter_11/section_11_2/time_series_basics.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_2/time_series_basics.py" />
-      <change beforePath="$PROJECT_DIR$/chapter_11/section_11_3/date_ranges_example.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_3/date_ranges_example.py" />
-      <change beforePath="$PROJECT_DIR$/chapter_11/section_11_3/frequencies_and_date_offset_example.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_3/frequencies_and_date_offset_example.py" />
-      <change beforePath="$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py" />
       <change beforePath="$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py" afterPath="$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py" />
+      <change beforePath="$PROJECT_DIR$/plot/matplotlib_example/example_2.py" afterPath="$PROJECT_DIR$/plot/matplotlib_example/example_2.py" />
+      <change beforePath="$PROJECT_DIR$/plot/matplotlib_example/example_5.py" afterPath="$PROJECT_DIR$/plot/matplotlib_example/example_5.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,24 +26,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shift_data_example.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py">
+      <file leaf-file-name="example_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="360">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="period_arithmetic.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py">
+      <file leaf-file-name="example_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="48">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example_3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example_4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example_5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,6 +95,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>stamp</find>
+      <find>plot_histograms</find>
+      <find>plot_scatter</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -63,21 +105,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/tips.csv" />
-        <option value="$PROJECT_DIR$/chapter_10/section_10_2/column_wise_and_multiple_function_application.py" />
-        <option value="$PROJECT_DIR$/chapter_10/section_10_3/general_split-apply-combine.py" />
-        <option value="$PROJECT_DIR$/chapter_10/section_10_3/random_sampling.py" />
-        <option value="$PROJECT_DIR$/chapter_10/section_10_3/group_weighted_average_and_correlation.py" />
-        <option value="$PROJECT_DIR$/chapter_11/section_11_1/datetime_type_and_tools.py" />
-        <option value="$PROJECT_DIR$/chapter_5/section_5_2/arithmetic_and_data_alignment_example.py" />
         <option value="$PROJECT_DIR$/chapter_8/section_8_2/database_style_dataframe_joins.py" />
         <option value="$PROJECT_DIR$/chapter_10/section_10_1/grouping_with_functions.py" />
         <option value="$PROJECT_DIR$/chapter_10/section_10_3/filling_missing_values_with_group-specific_values.py" />
         <option value="$PROJECT_DIR$/plot/example_1.py" />
-        <option value="$PROJECT_DIR$/plot/matplotlib_example/example_2.py" />
         <option value="$PROJECT_DIR$/plot/matplotlib_example/example_3.py" />
         <option value="$PROJECT_DIR$/plot/matplotlib_example/example_4.py" />
-        <option value="$PROJECT_DIR$/plot/matplotlib_example/example_5.py" />
         <option value="$PROJECT_DIR$/plot/matplotlib_example/example_6.py" />
         <option value="$PROJECT_DIR$/ipc/input.csv" />
         <option value="$PROJECT_DIR$/ipc/A350AIPC.CSV" />
@@ -114,13 +147,22 @@
         <option value="$PROJECT_DIR$/chapter_11/section_11_3/frequencies_and_date_offset_example.py" />
         <option value="$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py" />
         <option value="$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py" />
+        <option value="$PROJECT_DIR$/chapter_12/section_12_1/__init__.py" />
+        <option value="$PROJECT_DIR$/chapter_12/section_12_1/categorical_type.py" />
+        <option value="$PROJECT_DIR$/chapter_12/section_12_1/computation_with_categoricals.py" />
+        <option value="$PROJECT_DIR$/chapter_12/section_12_1/categorical_method.py" />
+        <option value="$PROJECT_DIR$/data/bitly_usagov.txt" />
+        <option value="$PROJECT_DIR$/chapter_14/section_14_1.py" />
+        <option value="$PROJECT_DIR$/chapter_14/section_14_1/example_1.py" />
+        <option value="$PROJECT_DIR$/plot/matplotlib_example/example_2.py" />
+        <option value="$PROJECT_DIR$/plot/matplotlib_example/example_5.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="972" />
-    <option name="y" value="64" />
-    <option name="width" value="913" />
+    <option name="x" value="858" />
+    <option name="y" value="22" />
+    <option name="width" value="1025" />
     <option name="height" value="956" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -139,6 +181,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,30 +192,13 @@
             <path>
               <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_11" type="462c0819:PsiDirectoryNode" />
-              <item name="section_11_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_11" type="462c0819:PsiDirectoryNode" />
-              <item name="section_11_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_11" type="462c0819:PsiDirectoryNode" />
-              <item name="section_11_5" type="462c0819:PsiDirectoryNode" />
+              <item name="plot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
               <item name="plot" type="462c0819:PsiDirectoryNode" />
+              <item name="matplotlib_example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
@@ -184,7 +210,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.game_of_life">
+  <component name="RunManager" selected="Python.example_5">
     <configuration name="database" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,6 +297,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="example_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plot/matplotlib_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonForDataAnalysis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot/matplotlib_example/example_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="game_of_life" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,39 +333,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="reindex_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5/section_5_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonForDataAnalysis" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/section_5_2/reindex_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.reindex_example" />
-      <item index="1" class="java.lang.String" itemvalue="Python.database" />
-      <item index="2" class="java.lang.String" itemvalue="Python.example7" />
-      <item index="3" class="java.lang.String" itemvalue="Python.example8" />
-      <item index="4" class="java.lang.String" itemvalue="Python.game_of_life" />
+      <item index="0" class="java.lang.String" itemvalue="Python.database" />
+      <item index="1" class="java.lang.String" itemvalue="Python.example7" />
+      <item index="2" class="java.lang.String" itemvalue="Python.example8" />
+      <item index="3" class="java.lang.String" itemvalue="Python.game_of_life" />
+      <item index="4" class="java.lang.String" itemvalue="Python.example_5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.game_of_life" />
-        <item index="1" class="java.lang.String" itemvalue="Python.example8" />
-        <item index="2" class="java.lang.String" itemvalue="Python.example7" />
-        <item index="3" class="java.lang.String" itemvalue="Python.database" />
-        <item index="4" class="java.lang.String" itemvalue="Python.reindex_example" />
+        <item index="0" class="java.lang.String" itemvalue="Python.example_5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.game_of_life" />
+        <item index="2" class="java.lang.String" itemvalue="Python.example8" />
+        <item index="3" class="java.lang.String" itemvalue="Python.example7" />
+        <item index="4" class="java.lang.String" itemvalue="Python.database" />
       </list>
     </recent_temporary>
   </component>
@@ -343,19 +367,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="972" y="64" width="913" height="956" extended-state="0" />
-    <editor active="true" />
+    <frame x="858" y="22" width="1025" height="956" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4079254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826748" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25785124" sideWeight="0.15195072" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22527473" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22710623" sideWeight="0.8480493" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26495728" sideWeight="0.8480493" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2869353" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -375,24 +398,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_6.py" />
-    <entry file="file://$PROJECT_DIR$/test/statistic.py" />
-    <entry file="file://E:/applications/python35/Lib/site-packages/IPython/core/interactiveshell.py" />
-    <entry file="file://$PROJECT_DIR$/ipc/A330AIPC.csv" />
-    <entry file="file://$PROJECT_DIR$/ipc/A350AIPC.csv" />
-    <entry file="file://$PROJECT_DIR$/ipc/A320AIPC.csv" />
-    <entry file="file://$PROJECT_DIR$/ipc/input.csv" />
     <entry file="file://$PROJECT_DIR$/ipc/A320AIPC.csv" />
     <entry file="file://$PROJECT_DIR$/test/new_statistic.py" />
     <entry file="file://$PROJECT_DIR$/ipc/A320AIPC1.csv" />
     <entry file="file://$PROJECT_DIR$/ipc/A330AIPC1.csv" />
     <entry file="file://$PROJECT_DIR$/plot/example_1.py" />
     <entry file="file://$PROJECT_DIR$/ipc/database.py" />
-    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_1.py" />
-    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_2.py" />
-    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_3.py" />
-    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_4.py" />
-    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_5.py" />
     <entry file="file://$PROJECT_DIR$/plot/tutorial/example4.py" />
     <entry file="file://$PROJECT_DIR$/plot/tutorial/example5.py" />
     <entry file="file://$PROJECT_DIR$/plot/tutorial/example6.py" />
@@ -523,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -531,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,9 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#19#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -549,25 +555,109 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_11/section_11_3/shift_data_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
+        <state relative-caret-position="190">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_11/section_11_5/period_arithmetic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="414">
+          <caret line="45" column="25" lean-forward="false" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/bitly_usagov.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1609">
+          <caret line="3559" column="578" lean-forward="false" selection-start-line="3559" selection-start-column="578" selection-end-line="3559" selection-end-column="578" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_12/section_12_1/categorical_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_12/section_12_1/computation_with_categoricals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_12/section_12_1/categorical_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_1.py" />
+    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_1/example_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_12/section_12_1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot/matplotlib_example/example_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
