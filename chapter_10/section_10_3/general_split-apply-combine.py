@@ -9,7 +9,7 @@ def output(d):
 
 
 tips = pd.read_csv("data/tips.csv")
-tips['tip_pct'] = np.random.rand(244)
+tips['tip_pct'] = tips['tip'] / tips['total_bill']
 grouped = tips.groupby(['day', 'smoker'])
 
 
@@ -21,23 +21,9 @@ top(tips, n=6)
 
 output(tips.groupby('smoker'))
 tips.groupby('smoker').apply(top)
+tips.groupby(['smoker', 'day']).apply(top, n=1, column='total_bill')
 
-# quantile and bucket analysis
-frame = pd.DataFrame({'data1': np.random.randn(1000),
-                      'data2': np.random.randn(1000)})
-
-quartiles = pd.cut(frame.data1, 4)
+result = tips.groupby('smoker')['tip_pct'].describe()
+result.unstack()
 
 
-def get_stats(group):
-    return {'min': group.min(), 'max': group.max(),
-            'count': group.count(), 'mean': group.mean()}
-
-
-grouped = frame.data2.groupby(quartiles)
-
-grouped.apply(get_stats)
-
-grouping = pd.qcut(frame.data1, 10, labels=False)
-grouped = frame.data2.groupby(grouping)
-grouped.apply(get_stats).unstack()
