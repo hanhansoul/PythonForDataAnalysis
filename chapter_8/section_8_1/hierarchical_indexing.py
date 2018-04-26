@@ -40,3 +40,4 @@ frame = pd.DataFrame({'a': range(7), 'b': range(7, 0, -1),
 frame1 = frame.set_index(['c', 'd'])
 frame.set_index(['c', 'd'], drop=False)
 frame2 = frame1.reset_index()
+
