@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 
 def output(d):
@@ -25,5 +24,3 @@ tips.groupby(['smoker', 'day']).apply(top, n=1, column='total_bill')
 
 result = tips.groupby('smoker')['tip_pct'].describe()
 result.unstack()
-
-
