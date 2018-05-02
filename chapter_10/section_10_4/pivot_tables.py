@@ -13,11 +13,18 @@ print(tips.pivot_table('tip_pct', index=['time', 'smoker'], columns='day', aggfu
 
 print(tips.pivot_table('tip_pct', index=['time', 'size', 'smoker'], columns='day', aggfunc='mean',
                        margins=True, fill_value=0))
+<<<<<<< HEAD
 
 pt = tips.pivot_table('tip_pct', index=['time', 'size', 'smoker'], columns='day', aggfunc='mean',
                       margins=True, fill_value=0)
 
+=======
+print(tips.pivot_table('tip_pct', index=['time', 'smoker', 'day'], aggfunc=len, margins=True))
+>>>>>>> 2b238788f66b262db577fef1aa95573796895fed
 # print(tips.pivot_table(['tip_pct', 'size'], index=['time', 'day'], columns=['smoker']))
 
 # print(tips.pivot_table(['tip_pct', 'size'], index=['time', 'day'],
 #                        columns='smoker', margins=True))
+
+# crosstab
+pd.crosstab([tips.time, tips.day], tips.smoker, margins=True)
