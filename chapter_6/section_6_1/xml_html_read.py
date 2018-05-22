@@ -9,7 +9,7 @@ print(failures.head())
 close_timestamps = pd.to_datetime(failures['Closing Date'])
 print(close_timestamps.dt.year.value_counts())
 
-path = 'chapter_6/performance_MNR.xml'
+path = 'performance_MNR.xml'
 parsed = objectify.parse(open(path))
 root = parsed.getroot()
 
@@ -24,3 +24,4 @@ for ele in root.INDICATOR:
     data.append(ele_data)
 
 print(data)
+
