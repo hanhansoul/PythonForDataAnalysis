@@ -15,8 +15,12 @@ print(data[data.notnull()])
 
 data = pd.DataFrame([[1., 6.3, 3.], [1., np.nan, np.nan], [np.nan, np.nan, np.nan], [np.nan, 6.5, 3.]])
 print(data.dropna())
+print(data[data.notnull()])
 print(data.dropna(how='all'))
+# 删除第一列中为nan的全部行
+print(data[data[0].notnull()])
 
+# 删除所有元素都为nan的全部列
 data[4] = np.nan
 print(data.dropna(how='all', axis=1))
 

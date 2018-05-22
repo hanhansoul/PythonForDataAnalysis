@@ -40,9 +40,9 @@ data.groupby(['title', 'gender']).size().unstack()
 
 # 参与每部电影评分的总人数
 ratings_by_title = data.groupby('title').size()
-ratings_by_title[:10]
+print(ratings_by_title[:10])
 # 评分人数超过250人的电影
-ratings_by_title[ratings_by_title >= 250]
+print(ratings_by_title[ratings_by_title >= 250])
 active_titles = ratings_by_title.index[ratings_by_title >= 250]  # 仅保留index内容
 # 仅保留评分人数超过250人的电影的评分平均值
 mean_ratings = mean_ratings.loc[active_titles]
