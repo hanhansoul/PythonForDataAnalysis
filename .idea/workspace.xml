@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b16ac22-5304-470a-b1c3-555d9c4b8105" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_5/chapter_5_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/merge_excel/input.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_5/.ipynb_checkpoints/chapter_5_1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/.ipynb_checkpoints/chapter_5_1-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_5/chapter_5_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/chapter_5_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_5/chapter_5_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/chapter_5_2.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,14 +13,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PythonForDataAnalysis$PythonForDataAnalysis.coverage" NAME="PythonForDataAnalysis Coverage Results" MODIFIED="1530240814535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PythonForDataAnalysis$PythonForDataAnalysis.coverage" NAME="PythonForDataAnalysis Coverage Results" MODIFIED="1530284394144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/PythonForDataAnalysis$lopa.coverage" NAME="lopa Coverage Results" MODIFIED="1530173658536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
     <SUITE FILE_PATH="coverage/PythonForDataAnalysis$read_from_sqlserver.coverage" NAME="read_from_sqlserver Coverage Results" MODIFIED="1528686165508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
     <SUITE FILE_PATH="coverage/PythonForDataAnalysis$flight_restriction_info_list_input.coverage" NAME="flight_restriction_info_list_input Coverage Results" MODIFIED="1529474577901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
     <SUITE FILE_PATH="coverage/PythonForDataAnalysis$sn_up_solve.coverage" NAME="sn_up_solve Coverage Results" MODIFIED="1528957618603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="integer_index_example.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/integer_index_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -308,18 +318,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.4090909" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.09312639" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3292683" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4311111" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43951166" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32852387" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.44111112" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.15577342" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -331,6 +341,7 @@
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" side_tool="true" weight="0.67" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.15577342" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,20 +356,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sql/sn_up_solve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/read_from_sqlserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/merge_excel/solve.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
@@ -366,13 +363,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/movies.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/movies.dat" />
     <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/example1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1342">
@@ -394,20 +385,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="67" lean-forward="true" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/movies.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/README" />
+    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/movies.dat" />
     <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/example1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1342">
@@ -576,25 +555,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/users.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/movies.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/README" />
+    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/users.dat" />
+    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/movies.dat" />
     <entry file="file://$PROJECT_DIR$/chapter_10/section_10_4/pivot_tables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
@@ -667,13 +630,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_5/section_5_1/dataframe_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_5/chapter_5_1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
@@ -682,17 +639,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_5/chapter_5_2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_5/section_5_1/series_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_5/chapter_5_2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/loc_and_iloc_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/integer_index_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="20" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
