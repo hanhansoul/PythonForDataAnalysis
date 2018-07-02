@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b16ac22-5304-470a-b1c3-555d9c4b8105" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/chapter_5/chapter_5_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/chapter_5_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/chapter_5_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_5/chapter_5_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/chapter_5_2.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,27 +14,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PythonForDataAnalysis$PythonForDataAnalysis.coverage" NAME="PythonForDataAnalysis Coverage Results" MODIFIED="1530284394144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PythonForDataAnalysis$PythonForDataAnalysis.coverage" NAME="PythonForDataAnalysis Coverage Results" MODIFIED="1530415168276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/PythonForDataAnalysis$lopa.coverage" NAME="lopa Coverage Results" MODIFIED="1530173658536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
     <SUITE FILE_PATH="coverage/PythonForDataAnalysis$read_from_sqlserver.coverage" NAME="read_from_sqlserver Coverage Results" MODIFIED="1528686165508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
+    <SUITE FILE_PATH="coverage/PythonForDataAnalysis$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1530340388914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot/mplot3d" />
     <SUITE FILE_PATH="coverage/PythonForDataAnalysis$flight_restriction_info_list_input.coverage" NAME="flight_restriction_info_list_input Coverage Results" MODIFIED="1529474577901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
     <SUITE FILE_PATH="coverage/PythonForDataAnalysis$sn_up_solve.coverage" NAME="sn_up_solve Coverage Results" MODIFIED="1528957618603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="integer_index_example.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/integer_index_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,6 +77,7 @@
         <option value="$PROJECT_DIR$/sql/lopa.py" />
         <option value="$PROJECT_DIR$/chapter_5/chapter_5_1.ipynb" />
         <option value="$PROJECT_DIR$/chapter_5/chapter_5_2.ipynb" />
+        <option value="$PROJECT_DIR$/chapter_5/chapter_5_3.ipynb" />
       </list>
     </option>
   </component>
@@ -101,9 +91,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -125,8 +115,25 @@
             <path>
               <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_5" type="462c0819:PsiDirectoryNode" />
-              <item name="section_5_2" type="462c0819:PsiDirectoryNode" />
+              <item name="plot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="plot" type="462c0819:PsiDirectoryNode" />
+              <item name="matplotlib_example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="plot" type="462c0819:PsiDirectoryNode" />
+              <item name="mplot3d" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="plot" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,7 +145,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/development/PythonForDataAnalysis/plot/tutorial/example2.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DjangoByExample/myshop" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -163,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jupyter Notebook.PythonForDataAnalysis">
+  <component name="RunManager" selected="Python.example1">
     <configuration name="PythonForDataAnalysis" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="PythonForDataAnalysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +187,25 @@
       <option name="additionalOptions" value="" />
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration name="example1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonForDataAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plot/mplot3d" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot/mplot3d/example1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="flight_restriction_info_list_input" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonForDataAnalysis" />
@@ -257,40 +283,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="solve" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonForDataAnalysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/merge_excel" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merge_excel/solve.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.PythonForDataAnalysis" />
-      <item itemvalue="Python.solve" />
       <item itemvalue="Python.read_from_sqlserver" />
       <item itemvalue="Python.sn_up_solve" />
       <item itemvalue="Python.flight_restriction_info_list_input" />
       <item itemvalue="Python.lopa" />
+      <item itemvalue="Python.example1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.example1" />
         <item itemvalue="Python.lopa" />
         <item itemvalue="Python.flight_restriction_info_list_input" />
         <item itemvalue="Python.sn_up_solve" />
         <item itemvalue="Python.read_from_sqlserver" />
-        <item itemvalue="Python.solve" />
       </list>
     </recent_temporary>
   </component>
@@ -317,20 +324,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.4090909" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43951166" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32852387" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.44111112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.45076588" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32932165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -356,35 +362,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/merge_excel/solve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/movies.dat" />
-    <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/example1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1342">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_10/section_10_1/groupby_mechanics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_10/section_10_4/pivot_tables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/README" />
     <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/movies.dat" />
     <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/example1.py">
@@ -646,6 +623,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/loc_and_iloc_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/arithmetic_and_data_alignment_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/integer_index_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_5/chapter_5_2.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -653,22 +651,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/loc_and_iloc_example.py">
+    <entry file="file://$PROJECT_DIR$/chapter_5/chapter_5_3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot/mplot3d/example1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/integer_index_example.py">
+    <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/sorting_and_ranking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="624">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_5/section_5_2/function_application_and_mapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
