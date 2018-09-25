@@ -2,9 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b16ac22-5304-470a-b1c3-555d9c4b8105" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/merge_excel/input.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/oracle_export.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_14/section_14_2/data/movies.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_14/section_14_2/data/ratings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_14/section_14_2/data/users.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf350/.ipynb_checkpoints/330lookup-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf350/.ipynb_checkpoints/real_solve-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf350/.ipynb_checkpoints/solve-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf350/330lookup.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf350/real_solve.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf350/solve.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipc/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipc/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipc/process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_excel/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_excel/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/.ipynb_checkpoints/solve-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/solve.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oracle/.ipynb_checkpoints/oracle_data_solve-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oracle/.ipynb_checkpoints/oracle_data_solve_1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oracle/oracle_data_solve.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oracle/oracle_data_solve_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/flight_restriction_info_list_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/lopa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql_connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/oracle_export.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/read_from_sqlserver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/sn_up_solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/1.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/2.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/20171215.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/3.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/4.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/5.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/6.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/all.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/exchangePart/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/exchangePart/excel_input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/exchangePart/excel_output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/exchangePart/excelsplit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/exchangePart/exp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fsn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/new_statistic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/reg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/statistic.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +64,7 @@
     <SUITE FILE_PATH="coverage/PythonForDataAnalysis$sn_up_solve.coverage" NAME="sn_up_solve Coverage Results" MODIFIED="1528957618603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,6 +121,7 @@
         <option value="$PROJECT_DIR$/chapter_5/chapter_5_2.ipynb" />
         <option value="$PROJECT_DIR$/chapter_5/chapter_5_3.ipynb" />
         <option value="$PROJECT_DIR$/sql/oracle_export.py" />
+        <option value="$PROJECT_DIR$/practice/sybase/export_mod.py" />
       </list>
     </option>
   </component>
@@ -101,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,17 +154,13 @@
             <path>
               <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonForDataAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonForDataAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,17 +350,17 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.4090909" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32852387" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4677778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4788889" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" weight="0.32932165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -345,13 +383,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sql/read_from_sqlserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="72" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/README" />
     <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/data/movies.dat" />
     <entry file="file://$PROJECT_DIR$/chapter_14/section_14_2/example1.py">
@@ -663,6 +694,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/sybase/export_mod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
