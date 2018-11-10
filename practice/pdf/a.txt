@@ -1,0 +1,133 @@
+AIRWORTHINESS LIMITATIONS SECTION 
+
+SECTION 3 - ILLUSTRATIONS 
+
+No change. 
+
+ 
+
+ 
+
+SECTION 4 - LIFE LIMITS (LL)/DEMONSTRATED FATIGUE LIVES (DF) 
+
+The limitation table has been updated in order to split the applicability of the column for the 
+A350-9xx between ¡°WV00x, WV011, 012, 014 & 015¡± and ¡°Other WV01x¡±.  
+
+ 
+
+REV 
+CODE 
+
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+R 
+
+ITEMS 
+
+55-3565163-00 
+55-3565006-00 
+55-3565160-00 
+55-3565173-00 
+55-3565159-00 
+50-3565218-00 
+50-3566218-00 
+50-3567084-00 
+50-3567084-01 
+50-3567084-02 
+50-3567084-03 
+55-3567063-00 
+50-3567048-00 
+50-3565241-00 
+50-3567049-00 
+55-3565221-00 
+50-3567005-00 
+55-3569035-00 
+55-3569034-00 
+55-3569068-00 
+50-3569032-00 
+55-3569036-01 
+
+VARIATION 
+NUMBER 
+
+(when 
+
+applicable) 
+
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+3.5(*) 
+
+CHANGE DESCRIPTION 
+
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+New limitations added for WV010 and WV013. 
+
+ISSUE: SEP 14/18 
+
+ALS PART 1  - APPENDIX E 
+
+PAGE: 61/69 
+
+ 
+ 
+
+b'AIRWORTHINESS LIMITATIONS SECTION \n'b'SECTION 3 - ILLUSTRATIONS \n'b'No change. \n'b' \n'b' \n'b'SECTION 4 - LIFE LIMITS (LL)/DEMONSTRATED FATIGUE LIVES (DF) \n'b'The limitation table has been updated in order to split the applicability of the column for the \nA350-9xx between \xe2\x80\x9cWV00x, WV011, 012, 014 & 015\xe2\x80\x9d and \xe2\x80\x9cOther WV01x\xe2\x80\x9d.  \n'b' \n'b'REV \nCODE \n'b'R \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \n'b'ITEMS \n'b'55-3565163-00 \n55-3565006-00 \n55-3565160-00 \n55-3565173-00 \n55-3565159-00 \n50-3565218-00 \n50-3566218-00 \n50-3567084-00 \n50-3567084-01 \n50-3567084-02 \n50-3567084-03 \n55-3567063-00 \n50-3567048-00 \n50-3565241-00 \n50-3567049-00 \n55-3565221-00 \n50-3567005-00 \n55-3569035-00 \n55-3569034-00 \n55-3569068-00 \n50-3569032-00 \n55-3569036-01 \n'b'VARIATION \nNUMBER \n'b'(when \n'b'applicable) \n'b'3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n'b'CHANGE DESCRIPTION \n'b'New limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \n'b'ISSUE: SEP 14/18 \n'b'ALS PART 1  - APPENDIX E \n'b'PAGE: 61/69 \n'b' \n \n'b'\xc2\xa9 AIRBUS SAS 2018. All rights reserved. Confidential and proprietary document. \n'b'AIRWORTHINESS LIMITATIONS SECTION \n'b' \n'b' \n'b'REV \nCODE \n'b'ITEMS \n'b'R \nR \nR \nR \nR \nR \n'b'N \n'b'R \nR \n'b'N \n'b'R \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \n'b'R \n'b'R \n'b'R \n'b'55-3569043-00 \n55-3567077-00 \n55-3567078-00 \n50-3575026-00 \n50-3575026-01 \n55-3575047-00 \n'b'55-3575047-01 \n'b'55-3575048-00 \n55-3591031-00 \n'b'55-3591119-00 \n'b'50-3591025-00 \n50-3591026-00 \n55-3581018-00 \n55-3581041-00 \n55-3587004-00 \n55-3581023-00 \n55-3581070-00 \n55-3587005-00 \n55-3581024-00 \n55-3581071-00 \n55-3579016-00 \n55-3579008-00 \n'b'50-3579041-00 \n'b'50-3579041-02 \n'b'50-3579129-00 \n'b'VARIATION \nNUMBER \n'b'(when \n'b'applicable) \n'b'3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.1 \n3.5(*) \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n'b'3.5(*) \n'b'3.5(*) \n'b'3.2 \n'b'CHANGE DESCRIPTION \n'b'New limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew PNR introduced for A350-9xx. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nNew PNR introduced for A350-9xx. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013, with \nDF classification. \nNew limitations added for WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \n'b'ISSUE: SEP 14/18 \n'b'ALS PART 1  - APPENDIX E \n'b'PAGE: 62/69 \n'b' \n \n'b'\xc2\xa9 AIRBUS SAS 2018. All rights reserved. Confidential and proprietary document. \n'b'AIRWORTHINESS LIMITATIONS SECTION \n'b' \n'b' \n'b'REV \nCODE \n'b'ITEMS \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \nR \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \nR \nR \nR \nR \nR \nR \n'b'50-3580041-00 \n'b'50-3580041-02 \n'b'50-3580129-00 \n'b'55-3579080-00 \n'b'55-3579139-00 \n'b'50-3579039-00 \n50-3579039-01 \n'b'50-3579124-00 \n'b'55-3579082-00 \n'b'55-3579140-00 \n'b'50-3579040-00 \n'b'50-3579128-00 \n'b'50-3579004-00 \n50-3579137-00 \n55-3579026-00 \n55-3579026-01 \n55-3579081-00 \n55-3579171-00 \n55-3587046-00 \n'b'VARIATION \nNUMBER \n'b'(when \n'b'applicable) \n'b'3.5(*) \n3.5(*) \n'b'3.5(*) \n'b'3.2 \n'b'3.5(*) \n3.5(*) \n'b'3.2 \n'b'3.5(*) \n3.5(*) \n3.5(*) \n'b'3.2 \n'b'3.5(*) \n3.5(*) \n'b'3.2 \n'b'3.5(*) \n3.5(*) \n'b'3.2 \n'b'3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n'b'CHANGE DESCRIPTION \n'b'New limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013, with \nDF classification. \nNew limitations added for WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \n'b'ISSUE: SEP 14/18 \n'b'ALS PART 1  - APPENDIX E \n'b'PAGE: 63/69 \n'b' \n \n'b'\xc2\xa9 AIRBUS SAS 2018. All rights reserved. Confidential and proprietary document. \n'b'AIRWORTHINESS LIMITATIONS SECTION \n'b' \n'b' \n'b'REV \nCODE \n'b'ITEMS \n'b'R \n'b'R \n'b'R \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \n'b'55-3587094-00 \n'b'55-3587047-00 \n'b'55-3587093-00 \n55-3587005-00 \n55-3587062-00 \n55-3587022-00 \n55-3587004-00 \n55-3585028-00 \n50-3585064-00 \n55-3585072-00 \n55-3585073-00 \n55-3585054-00 \n55-3585071-00 \n'b'55-3585141-00 \n'b'55-3585084-00 \n'b'55-3585148-00 \n'b'50-3585052-00 \n'b'50-3585125-00 \n'b'55-3585085-00 \n'b'55-3585150-00 \n'b'VARIATION \nNUMBER \n'b'(when \n'b'applicable) \n'b'3.5(*) \n'b'3.2 \n'b'3.5(*) \n'b'3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n'b'3.2 \n'b'3.5(*) \n3.5(*) \n'b'3.2 \n'b'3.5(*) \n3.5(*) \n'b'3.2 \n'b'3.5(*) \n3.5(*) \n'b'3.2 \n'b'CHANGE DESCRIPTION \n'b'to \n'b'Applicability extended to WV010 and WV013. \nRelaxation  of  existing  limitations  from  [16140  FH; \n3870  LDG]  up \n[64560  FH;  15495  LDG], \nclassification changed from DF to LL. \nNew limitations added for WV010 and WV013, with \nDF classification. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \n'b'ISSUE: SEP 14/18 \n'b'ALS PART 1  - APPENDIX E \n'b'PAGE: 64/69 \n'b' \n \n'b'\xc2\xa9 AIRBUS SAS 2018. All rights reserved. Confidential and proprietary document. \n'b'AIRWORTHINESS LIMITATIONS SECTION \n'b' \n'b' \n'b'REV \nCODE \n'b'ITEMS \n'b'R \n'b'R \n'b'R \nR \nR \n'b'R \n'b'R \n'b'R \n'b'R \nR \nR \n'b'R \n'b'R \n'b'R \nR \nR \nR \nR \nR \nR \nR \n'b'50-3585053-00 \n'b'50-3585129-00 \n'b'50-3585070-00 \n55-3585031-00 \n'b'5035-0074 \n'b'6407-0003 \n'b'5035-0073 \n'b'6407-0002 \n'b'5035-0069 \n5035-0121 \n5035-0131 \n'b'6407-0101 \n'b'6407-0121 \n'b'5035-8001 \n5035-5111 \n5035-5201 \n5035-5301 \n5035-0301 \n5035-0034 \n5035-0014 \n5035-8021 \n'b'VARIATION \nNUMBER \n'b'(when \n'b'applicable) \n'b'3.5(*) \n3.5(*) \n'b'3.2 \n'b'3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n'b'CHANGE DESCRIPTION \n'b'New limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nRelaxation  of  existing  limitations  from  [4160  FH; \n1000 LDG] up to [30000 FH; 7200 LDG]. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nNew limitations added for WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \n'b'ISSUE: SEP 14/18 \n'b'ALS PART 1  - APPENDIX E \n'b'PAGE: 65/69 \n'b' \n \n'b'\xc2\xa9 AIRBUS SAS 2018. All rights reserved. Confidential and proprietary document. \n'b'AIRWORTHINESS LIMITATIONS SECTION \n'b' \n'b' \n'b'VARIATION \nNUMBER \n'b'(when \n'b'applicable) \n'b'3.3 \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n'b'CHANGE DESCRIPTION \n'b'New limitations added for A350-1000 WV002. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \n'b'REV \nCODE \n'b'ITEMS \n'b'R \n'b'R \nR \nR \n'b'R \n'b'R \nR \n'b'R \n'b'R \n'b'R \n'b'R \nR \nR \n'b'R \n'b'R \n'b'R \n'b'R \nR \nR \nR \nR \nR \n'b'5035-0401 \n'b'5035-0411 \n5035-0045 \n5035-0221 \n'b'6407-0201 \n'b'5035-8004 \n5035-0020 \n'b'6407-0020 \n'b'5035-1701 \n'b'6407-0501 \n'b'5035-8019 \n5035-8010 \n5035-0094 \n'b'6407-0094 \n'b'5035-0046 \n'b'6407-0018 \n'b'5035-8023 \n5035-8024 \n5035-8025 \n5035-1401 \n5035-1411 \n5035-1421 \n'b'ISSUE: SEP 14/18 \n'b'ALS PART 1  - APPENDIX E \n'b'PAGE: 66/69 \n'b' \n \n'b'\xc2\xa9 AIRBUS SAS 2018. All rights reserved. Confidential and proprietary document. \n'b'AIRWORTHINESS LIMITATIONS SECTION \n'b' \n'b' \n'b'REV \nCODE \n'b'ITEMS \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \nR \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \n'b'R \nR \n'b'R \n'b'R \nR \nR \nR \nR \n'b'4808-0121 \n'b'6404-0121 \n'b'5312-0131 \n'b'6408-0121 \n'b'4808-0017 \n'b'6404-0002 \n'b'4808-0008 \n5035-0003 \n'b'6407-0001 \n'b'4808-0029 \n'b'6404-0001 \n'b'4808-0033 \n'b'6404-0006 \n'b'4808-0034 \n4811-0208 \n'b'6409-0201 \n'b'4811-0003 \n4811-0007 \n4811-0101 \n4816-0030 \n'b'V57550062200xx \n'b'VARIATION \nNUMBER \n'b'(when \n'b'applicable) \n'b'3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.4 \n3.5(*) \n3.5(*) \n3.5(*) \n'b'3.4 \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n'b'CHANGE DESCRIPTION \n'b'Applicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to A350-9xx. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \n'b'ISSUE: SEP 14/18 \n'b'ALS PART 1  - APPENDIX E \n'b'PAGE: 67/69 \n'b' \n \n'b'\xc2\xa9 AIRBUS SAS 2018. All rights reserved. Confidential and proprietary document. \n'b'AIRWORTHINESS LIMITATIONS SECTION \n'b' \n'b' \n'b'REV \nCODE \n'b'ITEMS \n'b'R \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \nR \n'b'V57556057200xx \nV57556054200xx \nV57550131200xx \nV57550131202xx \nV57555979200xx \nV57555981200xx \nV57555983200xx \nV57555984200xx \nV57555982200xx \nV57555980200xx \nV57550187200xx \nV57550174200xx \nV57550179200xx \n'b'VARIATION \nNUMBER \n'b'(when \n'b'applicable) \n'b'3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n3.5(*) \n'b'CHANGE DESCRIPTION \n'b'Applicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \nApplicability extended to WV010 and WV013. \n'b'(*) The changes introduced for the WV013 have not been published yet and are thus directly \nintroduced in Revision 04. These changes are identical to those introduced by WV010 through \nVariation 3.5. Consequently, although the changes associated to WV013 were not published via \nVariation 3.5, they can be found in the above table together with the changes introduced by \nWV010 and previously published via Variation 3.5. \n'b'Notes (2) and (3) have been added at the end of the table. \n'b'APPENDIX A - ABBREVIATIONS \n'b'The following abbreviations have been added: A/C, Inbd, Outbd \n'b'APPENDIX B - TERMS AND DEFINITIONS \n'b'No change. \n'b'APPENDIX C \xe2\x80\x93 WEIGHT VARIANTS INSTALLATIONS \nThe following Weight Variants have been added: \nA350-900 series installations: \nWV010: Aircraft POST MOD 110113 \nWV013: Aircraft POST MOD 110112 \n \nA350-1000 series installations: \nWV002: Aircraft POST MOD 110134 \n'b'ISSUE: SEP 14/18 \n'b'ALS PART 1  - APPENDIX E \n'b'PAGE: 68/69 \n'b' \n \n'b'\xc2\xa9 AIRBUS SAS 2018. All rights reserved. Confidential and proprietary document. \n'
